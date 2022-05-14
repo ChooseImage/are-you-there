@@ -1,0 +1,17 @@
+{
+    "mats": [
+        
+        {
+            "name": "Mother encouter",
+            "instruction": "The following is between character A and character B in a story. The character is somber.\n",
+            "content": "A: When was this?\nB: Sunday afternoon I think, or is it Saturday?\nA: Were you alone?\nB: No, I remember seeing my mom, in the park, but younger."
+
+        },
+        {
+            "name": "Dark and Stormy night",
+            "instruction": "The following is a conversation with a mytherious character in a story. The character is somber.\n",
+            "content": "B: It was a dark and stormy night."
+
+        }
+    ] 
+  }
